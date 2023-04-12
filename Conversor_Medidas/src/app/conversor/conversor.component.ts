@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class ConversorComponent {
 
+    ConverterMedidas(){ 
+      Index1: Number;
+
+    }
+
 }
